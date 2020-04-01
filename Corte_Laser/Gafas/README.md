@@ -48,4 +48,8 @@ Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, l
 
 ![Protective goggles](/Corte_Laser/Gafas/images/IMG_2001.jpg)
 
+1-Lavar el polipropileno, ya que sale con residuos del corte láser.
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2055.jpg)
+
 WIP.
