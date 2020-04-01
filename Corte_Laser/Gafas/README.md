@@ -44,7 +44,7 @@ Permite transparencia de grado óptico y aguanta esterilización por ozono.
 <h4>FABRICACIÓN Y ENSAMBLAJE</h4>
 
 
-Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, los parámetros dependen mucho de los materiales que se adquieran, ya que tanto la espuma, como el polipropileno son uy sensibles a estos ajustes.
+Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, los parámetros dependen mucho de los materiales que se adquieran, ya que tanto la espuma, como el polipropileno son muy sensibles a estos ajustes.
 
 ![Protective goggles](/Corte_Laser/Gafas/images/IMG_2001.jpg)
 
@@ -104,6 +104,6 @@ Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, l
 
 <h4>Partes para revisar</h4>
 
-Estamos testando un modelo en el que las pestañas son algo mas largas, para facilitar el montaje y las que cojen la goma estan en las "esquinas superiores" de la gafa, ya que hemos comprobado que mejora el sellado al rostro.
+Estamos testando un modelo en el que las pestañas son algo mas largas, para facilitar el montaje y las que cogen la goma estan en las "esquinas superiores" de la gafa, ya que hemos comprobado que mejora el sellado al rostro.
 
 WIP.
