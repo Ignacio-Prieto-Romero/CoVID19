@@ -1,7 +1,10 @@
 <h2>Lasercut Protective goggles design</h2>
 
-![Protective goggles](/Corte_Laser/Gafas/images/IMG_2001.jpg)
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2041.jpg)
 
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2048.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2049.jpg)
 
 Desde Istituto Europeo di Design y través del de Fab Lab de su centro de innovación, hemos desarrollado un prototipo de gafas para la protección del personal sanitario, con el fin de **donarlas** a los hospitales  y contribuir a una mejor protección del personal sanitario **en reconocimiento y apoyo de su colosal labor.**
 
@@ -14,6 +17,8 @@ Se ha testado su capacidad anti vaho/anti empañamiento, siendo esta eficiente e
 Están **diseñadas para una mejor adaptación a su uso con gafas graduadas, mascarillas y EPIs. Se recomienda especialmente su utilización con cofia y mascarilla.**
 
 Se ajustan a la cabeza a través de unas gomas y tienen una medida estándar basada en estudios antropométricos.
+
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2047.jpg)
 
 <h4>CARACTERÍSTICAS DE LOS MATERIALES UTILIZADOS EN LA FABRICACIÓN</h4>
 
@@ -35,8 +40,13 @@ Si la esterilización se realizase mediante ozono, se podría prescindir de esta
 
 Permite transparencia de grado óptico y aguanta esterilización por ozono.
 
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2047.jpg)
+
 <h4>FABRICACIÓN Y ENSAMBLAJE</h4>
 
+
 Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, los parámetros dependen mucho de los materiales que se adquieran, ya que tanto la espuma, como el polipropileno son uy sensibles a estos ajustes.
+
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2001.jpg)
 
 WIP.
