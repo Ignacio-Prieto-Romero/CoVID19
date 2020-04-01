@@ -1,6 +1,6 @@
 <h2>Lasercut Protective goggles design</h2>
 
-![Protective goggles](/github.com/Ignacio-Prieto-Romero/CoVID19/blob/master/Corte_Laser/Gafas/images/IMG_2001.jpg)
+![Protective goggles](/Corte_Laser/Gafas/images/IMG_2001.jpg)
 
 
 Desde Istituto Europeo di Design y través del de Fab Lab de su centro de innovación, hemos desarrollado un prototipo de gafas para la protección del personal sanitario, con el fin de **donarlas** a los hospitales  y contribuir a una mejor protección del personal sanitario **en reconocimiento y apoyo de su colosal labor.**
