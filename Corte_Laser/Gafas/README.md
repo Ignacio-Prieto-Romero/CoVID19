@@ -52,4 +52,58 @@ Las gafas se han testado para su producción en una Trotec Speedy 400 de 120W, l
 
 ![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2055.jpg)
 
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2056.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2058.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2060.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2061.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2062.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2063.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2064.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2065.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2066.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2067.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2068.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2069.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2071.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2072.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2073.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2074.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2075.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2076.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2077.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2078.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2079.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2080.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2081.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2082.jpg)
+
+![Protective goggles](/Corte_Laser/Gafas/images/Assembly/IMG_2083.jpg)
+
+<h4>Partes para revisar</h4>
+
+Estamos testando un modelo en el que las pestañas son algo mas largas, para facilitar el montaje y las que cojen la goma estan en las "esquinas superiores" de la gafa, ya que hemos comprobado que mejora el sellado al rostro.
+
 WIP.
