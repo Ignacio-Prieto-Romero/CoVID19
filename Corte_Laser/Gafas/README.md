@@ -1,5 +1,8 @@
 <h2>Lasercut Protective goggles design</h2>
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 Desde Istituto Europeo di Design y través del de Fab Lab de su centro de innovación, hemos desarrollado un prototipo de gafas para la protección del personal sanitario, con el fin de **donarlas** a los hospitales  y contribuir a una mejor protección del personal sanitario **en reconocimiento y apoyo de su colosal labor.**
 
 <h4>CARACTERÍSTICAS FUNCIONALES</h4>
