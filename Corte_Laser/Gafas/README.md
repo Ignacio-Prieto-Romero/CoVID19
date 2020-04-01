@@ -1,12 +1,13 @@
 <h2>Lasercut Protective goggles design</h2>
 
+
+Desde Istituto Europeo di Design y través del de Fab Lab de su centro de innovación, hemos desarrollado un prototipo de gafas para la protección del personal sanitario, con el fin de **donarlas** a los hospitales  y contribuir a una mejor protección del personal sanitario **en reconocimiento y apoyo de su colosal labor.**
+
 ![Protective goggles](/Corte_Laser/Gafas/images/IMG_2041.jpg)
 
 ![Protective goggles](/Corte_Laser/Gafas/images/IMG_2048.jpg)
 
 ![Protective goggles](/Corte_Laser/Gafas/images/IMG_2049.jpg)
-
-Desde Istituto Europeo di Design y través del de Fab Lab de su centro de innovación, hemos desarrollado un prototipo de gafas para la protección del personal sanitario, con el fin de **donarlas** a los hospitales  y contribuir a una mejor protección del personal sanitario **en reconocimiento y apoyo de su colosal labor.**
 
 <h4>CARACTERÍSTICAS FUNCIONALES</h4>
 
@@ -17,8 +18,6 @@ Se ha testado su capacidad anti vaho/anti empañamiento, siendo esta eficiente e
 Están **diseñadas para una mejor adaptación a su uso con gafas graduadas, mascarillas y EPIs. Se recomienda especialmente su utilización con cofia y mascarilla.**
 
 Se ajustan a la cabeza a través de unas gomas y tienen una medida estándar basada en estudios antropométricos.
-
-![Protective goggles](/Corte_Laser/Gafas/images/IMG_2047.jpg)
 
 <h4>CARACTERÍSTICAS DE LOS MATERIALES UTILIZADOS EN LA FABRICACIÓN</h4>
 
