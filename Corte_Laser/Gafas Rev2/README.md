@@ -1,5 +1,7 @@
 <h2>Updated Version of Laser cut Protective Googles</h2>
 
+![Protective Goggles REV2!](https://github.com/Ignacio-Prieto-Romero/CoVID19/blob/master/Corte_Laser/Gafas%20Rev2/IMAGES/IMG_2137.jpg)
+
 This revision adresses concerns and issues that were stated during testing and feedback.
 
 Main things changed are:
@@ -16,7 +18,7 @@ Our Laser cutter is a Trotec Speedy 400 Co2 120W, so we can provide values and s
 
 We also provide the file for the jig that we use to assemble the goggles. I cannot remark enough how valuable it is to speed up assembly times.
 
-
+![Protective Goggles REV2!](https://github.com/Ignacio-Prieto-Romero/CoVID19/blob/master/Corte_Laser/Gafas%20Rev2/IMAGES/IMG_2141.jpg)
 
 Hope you find the design useful and feel free to copy, reproduce or remix all or any part or solutions in it.
 
