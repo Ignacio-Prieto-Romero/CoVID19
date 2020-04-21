@@ -20,6 +20,8 @@ We also provide the file for the jig that we use to assemble the goggles. I cann
 
 ![Protective Goggles REV2!](https://github.com/Ignacio-Prieto-Romero/CoVID19/blob/master/Corte_Laser/Gafas%20Rev2/IMAGES/IMG_2141.jpg)
 
+Assembly process is pretty close to REV1
+
 Hope you find the design useful and feel free to copy, reproduce or remix all or any part or solutions in it.
 
 Thank you!
